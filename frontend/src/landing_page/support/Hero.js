@@ -29,8 +29,7 @@ function Hero() {
               <br />
             </li>
             <li>
-            <a href="">Latest Intraday Leverages - MIS & CO </a>
-
+              <a href="">Latest Intraday Leverages - MIS & CO </a>
             </li>
           </ul>
         </div>
